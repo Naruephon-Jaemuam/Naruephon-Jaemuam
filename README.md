@@ -1,4 +1,4 @@
-### hey, i'm naruephon
+### hey, i'm Naruephon
 
 <a href="https://github.com/Naruephon-Jaemuam">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2400&pause=1000&color=61DAFB&center=false&vCenter=true&width=500&lines=full-stack+%26+backend+developer;computer+engineering+%40+kasetsart+university;focused+on+scalable+web+%26+backend+systems" alt="Typing SVG" />
