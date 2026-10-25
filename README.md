@@ -8,8 +8,7 @@
 
 #### about me
 
-Computer Engineering student at Kasetsart University (Kamphaeng Saen Campus) with a focus on full-stack web development and backend architecture.
-
+Computer Engineering student at Kasetsart University (Kamphaeng Saen Campus) 
 ---
 
 #### projects
